@@ -1,2 +1,2 @@
-Battle Monsters
+Battle monsters
 
